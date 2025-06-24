@@ -5,7 +5,7 @@ The maturity framework and self-assessment tool are designed to be flexible acro
 ::: {.callout-note .feature collapse="true"}
 ## University of Greenwich - The Toolkit as a Survey
 
-A briefing email and link to the toolkit was sent to a diverse selection of colleagues representing the people team, research support staff, all faculties, and senior research leaders. 10 completed a brief version of the maturity framework in the form of a survey. The group then met online to review a visualisation of the results, agreeing that a vision statement and action plan, subsumed under a pre-existing research board, could start to explore the implications for key domains of activity and policy (e.g., data sharing, rights retention, monitoring, and recognition).
+A briefing email and link to the toolkit was sent to a diverse selection of colleagues representing the people team, research support staff, all faculties, and senior research leaders. 10 completed a brief version of the maturity framework in the form of a survey. The group then met online to review a visualisation of the results, agreeing that a vision statement and action plan, subsumed under a pre-existing research board, could start to explore the implications for key domains of activity and policy (e.g., data sharing, rights retention, monitoring, and recognition). See Greenwich's survey [here] (https://oercommons.org/courseware/lesson/132124).
 :::
 
 ::: {.callout-note .feature collapse="true"}
@@ -17,7 +17,7 @@ The University of Suffolk created a task and finish group to complete the self-a
 ::: {.callout-note .feature collapse="true"}
 ## University of Bristol - Agreeing on Priorities
 
-The University of Bristol’s Research Culture Committee held a dedicated workshop to conduct the self-assessment. Ahead of the workshop, committee members received the self-assessment tool from the Associate PVC and the REF People, Culture & Environment Manager. During the workshop, Mentimeter was used to collect input in real time, helping to visualize areas of agreement and divergence. Sections were then ranked by significance based on participant responses, assisting attendees to agree on areas of focus.
+The University of Bristol’s Research Culture Committee held a dedicated workshop to conduct the self-assessment. Ahead of the workshop, committee members received the self-assessment tool from the Associate PVC and the REF People, Culture & Environment Manager. During the workshop, Mentimeter was used to collect input in real time, helping to visualize areas of agreement and divergence. Sections were then ranked by significance based on participant responses, assisting attendees to agree on areas of focus. See Bristol's full case study [here] (https://recognition.ukrn-openresearch.ac.uk/case-study-bristol.html).
 :::
 
 ::: {.callout-note .feature collapse="true"}
